@@ -1,0 +1,10 @@
+Solo uno de estos scripts debe conectarse al server de SCARA
+
+>>> Cliente_comandos.m
+Sus inputs son vectores con formato [d1 q2 q3 claw_state]
+
+>>> Cliente_random.m
+Ingresa inputs aleatorios al SCARA para moverse aleatoriamente. Para detenerlo debe escribirse "exit", eso detendra este script y tambien desconectara el server del SCARA
+
+>>> Cliente_grilla.m
+Sus inputs son vectores con formato [fila columna altura claw_state]
