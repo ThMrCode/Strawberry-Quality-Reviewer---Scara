@@ -1,0 +1,2 @@
+Para activar la simulacion de SCARA se debe ejecutar el script "Server_Activate"
+(En una ventana separada del cliente en caso se ejecuten en el mismo dipositivo)
